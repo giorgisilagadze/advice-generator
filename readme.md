@@ -19,3 +19,21 @@ Your users should be able to:
 
 ![](./advice-generator-app-main/Screenshot%202023-03-13%20133356.png)
 
+### Links
+
+- Solution URL: https://github.com/giorgisilagadze/advice-generator
+- Live Site URL: https://advice-generator-six-beryl.vercel.app
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- Javascript
+
+### What I learned
+
+There was my first contact with API, it was great experience.
